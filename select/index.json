@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "偉生人",
+  "base_artist": "Vaundy",
+  "createdAt": "2025-12-24T07:05:31.118003Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "偉生人",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/01_偉生人_Vaundy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "偉生人",
+      "artist": "Vaundy",
+      "has_synced": false,
+      "path": "select/pl_01_偉生人_Vaundy.txt"
+    }
+  ]
+}
